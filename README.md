@@ -92,11 +92,9 @@ Duas opções, **sem fidelidade**, com **preço de lançamento**. Cancela quando
 
 ## 👤 Sobre o desenvolvedor
 
-<img src="assets/paulo.jpg" alt="Paulo Adriel" width="120" align="left" style="margin-right:16px;border-radius:12px" />
+<img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
 
-**Paulo Adriel** — produtor de vídeo e desenvolvedor indie brasileiro (Porto Velho/RO). Construo as ferramentas que eu mesmo usaria e entrego o produto **junto** com a apresentação dele: código + identidade visual, motion e material de lançamento, do zero ao ar. Estúdio [Paulocodex](https://paulocodex.com).
-
-O Torque nasceu da dor real de quem toca oficina no Brasil — e virou uma plataforma pra tirar a oficina do caderno.
+**Paulo Adriel** é produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele — código + identidade visual, motion e material de lançamento — do zero ao ar em 30 dias. Trabalho de forma aberta e escuto quem usa. Estúdio [**Paulocodex**](https://paulocodex.com).
 
 <br clear="left" />
 
@@ -104,7 +102,7 @@ O Torque nasceu da dor real de quem toca oficina no Brasil — e virou uma plata
 
 <div align="center">
 
-📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [torqueoficina.com.br](https://torqueoficina.com.br) &nbsp;·&nbsp; 🏗️ [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 📸 [Instagram](https://instagram.com/paulo.videodev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/paulo-adriel/) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
 
 _Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
 
