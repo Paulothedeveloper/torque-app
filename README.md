@@ -90,6 +90,14 @@ Duas opções, **sem fidelidade**, com **preço de lançamento**. Cancela quando
 - **Foco no Brasil** — interface e conteúdo 100% em pt-BR, para oficinas brasileiras.
 - **Licença proprietária** — este é um repositório de **apresentação pública**. O código-fonte é fechado. Nada de dado ou segredo aqui.
 
+## 🥷 Mascote
+
+<img src="https://paulocodex.com/brand/ninjas/torque.png" alt="Torque — ninja" width="200" align="right" />
+
+Todo projeto do estúdio tem o **ninja Codex** na cor da sua identidade — o mesmo mascote da casa, recolorido pro tema do **Torque**.
+
+<br clear="right" />
+
 ## 👤 Sobre o desenvolvedor
 
 <img src="https://paulocodex.com/products/paulo.jpg" alt="Paulo Adriel" width="130" align="left" style="margin-right:18px;border-radius:12px" />
