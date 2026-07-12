@@ -4,8 +4,8 @@
 
 # Torque
 
-**A plataforma all-in-one da oficina mecânica.**
-*Do orçamento à entrega do carro — a gestão inteira da sua oficina num app só.*
+**A plataforma da oficina mecânica brasileira.**
+*Calculadora de Custo Homem/Hora, suíte de gestão e consulta de serviços com preço médio — num app só.*
 
 [![Status](https://img.shields.io/badge/status-NO%20AR-f97316?style=for-the-badge)](https://torqueoficina.com.br)
 [![Plataforma](https://img.shields.io/badge/plataforma-Web%20·%20PWA-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://torqueoficina.com.br/app)
@@ -16,52 +16,48 @@
 </div>
 
 <div align="center">
-<img src="assets/hero-dark.png" alt="Torque — plataforma de gestão para oficina mecânica" width="100%" />
+<img src="assets/hero-dark.png" alt="Torque — plataforma para oficina mecânica" width="100%" />
 </div>
 
 ---
 
-Sua oficina roda no caderno, no WhatsApp e em cinco planilhas soltas. O orçamento você faz "no olho", o cliente some, a peça acaba sem ninguém ver e no fim do mês ninguém sabe se sobrou dinheiro. **Torque junta tudo isso num sistema só** — feito pra oficina brasileira, pra usar no computador da recepção **ou no celular, no meio do box**.
+Sua oficina cobra "no olho", perde tempo procurando preço de serviço e no fim do mês ninguém sabe se sobrou dinheiro. **O Torque resolve o núcleo disso num app só** — feito pra oficina brasileira, pra usar no computador da recepção **ou no celular, no meio do box**.
 
-Uma assinatura no lugar da papelada: cadastro de cliente, ordem de serviço, orçamento, estoque e financeiro conversando entre si. Você abre a OS, adiciona as peças, o sistema calcula o preço com o **custo real da sua hora de trabalho**, manda o orçamento pro cliente e — quando o carro sai — o financeiro já registrou. Sem retrabalho, sem achismo.
+Ele calcula o **custo real da sua hora de trabalho** (o tal do Custo Homem/Hora), roda a suíte inteira de contas da oficina, e ainda te dá uma **consulta de 600+ serviços com tempo-padrão e preço médio** — mais identificação por **placa/FIPE** e **Recall por chassi**. Uma assinatura no lugar de três ferramentas soltas. A partir de **R$ 97/mês, sem fidelidade**.
 
 ## 💪 Por que o dono de oficina assina
 
-- **Chega de caderno.** Cliente, veículo, histórico de serviço e financeiro num lugar só — e nas suas mãos onde você estiver.
-- **Do orçamento à entrega, sem furo.** Cada carro vira uma ordem de serviço que anda por etapas: orçamento → aprovação → execução → entrega. Nada trava porque "esqueceram de avisar".
 - **Você para de trabalhar no prejuízo.** O Torque calcula o **Custo Homem/Hora real** da sua oficina — aluguel, energia, salário, ferramenta — e mostra por quanto você *precisa* cobrar pra ter lucro. Fim do preço "no chute".
-- **Controle total.** Quanto entrou, quanto saiu, o que está no estoque, quem deve, qual carro está no pátio — num painel só, atualizado na hora.
-- **Cliente volta.** Histórico por placa: você sabe tudo que já fez naquele carro e lembra o cliente da próxima revisão.
+- **A suíte inteira de contas.** Custo fixo, custo variável, hora-box, precificação, meta de faturamento, lucro e lucro real — todas as calculadoras da oficina num lugar só.
+- **Preço de serviço na hora.** Consulta de **600+ serviços** com tempo-padrão e preço médio de referência, por categoria e por veículo. Chega de abrir cinco sites.
+- **Identifica o carro na placa.** Busca por **placa/FIPE** e, no Oficina Pro, **Recall por chassi** — você sabe o que aquele veículo tem pendente antes de encostar a mão.
+- **No bolso, no box.** PWA instalável no Android/iOS, roda offline e recebe notificação — sem baixar da loja. Feito **mobile-first**, pra usar no meio da oficina.
 - **Sem fidelidade.** Cancela quando quiser, direto pela plataforma. A ferramenta tem que provar que vale — não te prender.
 
-## 🔧 O que tem dentro
+## 🔧 O que está no ar
 
-- **Ordens de serviço** — do orçamento à entrega, com etapas, peças, mão de obra e status do carro.
-- **Clientes & veículos** — cadastro completo, busca por placa e histórico de tudo que já passou na oficina.
-- **Estoque** — controle de peças e insumos, entrada e saída amarradas na OS.
-- **Orçamento profissional** — monta, envia pro cliente e transforma em serviço aprovado com um clique.
-- **Financeiro** — entradas, saídas, contas e a saúde real do caixa num painel só.
-- **Precificação inteligente** — suíte de calculadoras (Custo Homem/Hora, custo fixo/variável, meta de lucro) pra você cobrar certo.
+- **Suíte de calculadoras de gestão** — Custo Homem/Hora, custo fixo/variável, hora-box, precificação, meta de faturamento, lucro e lucro real.
 - **Consulta de serviços** — 600+ serviços com tempo-padrão e preço médio de referência, por categoria e por veículo.
-- **Placa / FIPE + Recall** — identifica o veículo e puxa recall (plano Oficina Pro).
-- **Funciona no celular** — PWA instalável no Android/iOS, roda offline e recebe notificação. Sem baixar da loja.
+- **Placa / FIPE** — identifica o veículo (10/dia no Essencial, 30/dia no Oficina Pro).
+- **Recall por chassi** — pendências de recall do veículo (Oficina Pro, 30/dia).
+- **PWA mobile** — instalável, roda offline, notificação. Tema claro e escuro, contraste WCAG AA nos dois.
+
+## 🧭 No mapa (chegando)
+
+Ordens de serviço, cadastro de clientes, estoque, orçamentos e financeiro estão em construção e entram **por atualização, sem custo extra** pra quem já é assinante. O núcleo — precificação e consulta — já está no ar hoje.
 
 ## 💰 Planos
 
-Duas opções, **sem fidelidade**, com **preço de lançamento**. Cancela quando quiser, pela própria plataforma.
+Duas opções, **sem fidelidade**, com **preço de lançamento** nos 3 primeiros meses. Cancela quando quiser, pela própria plataforma.
 
 | | **Gestão Essencial** | **Oficina Pro** |
 |---|---|---|
-| Preço | **R$ 97/mês** ~~R$ 147~~ | **R$ 227/mês** ~~R$ 297~~ |
-| Ordens de serviço | ✅ | ✅ |
-| Clientes & veículos | ✅ | ✅ |
-| Estoque | ✅ | ✅ |
-| Orçamentos | ✅ | ✅ |
-| Financeiro | ✅ | ✅ |
-| Suíte de precificação | ✅ | ✅ |
-| Consulta de serviços (600+) | ✅ | ✅ |
-| Placa / FIPE + Recall | — | ✅ |
-| Recursos avançados de gestão | — | ✅ |
+| Preço (lançamento) | **R$ 97/mês** ~~R$ 147~~ | **R$ 227/mês** ~~R$ 297~~ |
+| Suíte completa de calculadoras | ✅ | ✅ |
+| Custo Homem/Hora · precificação · lucro | ✅ | ✅ |
+| Consulta de 600+ serviços e tempos | ✅ | ✅ |
+| Identificação por placa / FIPE | ✅ 10/dia | ✅ 30/dia |
+| Recall por chassi | — | ✅ 30/dia |
 
 ➡️ **Assine em [torqueoficina.com.br](https://torqueoficina.com.br)** — cria a conta, testa a plataforma e ativa o plano com pagamento recorrente (Mercado Pago). Preço de lançamento por tempo limitado.
 
@@ -71,7 +67,7 @@ Duas opções, **sem fidelidade**, com **preço de lançamento**. Cancela quando
 |---|---|---|
 | ![Torque desktop escuro](assets/hero-dark.png) | ![Torque desktop claro](assets/landing-light.png) | ![Torque mobile](assets/landing-mobile.png) |
 
-> Identidade **industrial**: hexágono de aço + soquete laranja, faixa hazard, spec cards e tipografia técnica (Space Grotesk + JetBrains Mono). Tema claro e escuro, contraste WCAG AA nos dois.
+> Identidade **industrial**: hexágono de aço + soquete laranja, faixa hazard, spec cards e tipografia técnica. Tema claro e escuro, contraste WCAG AA nos dois.
 
 <div align="center">
 <img src="assets/post-custo.png" alt="Custo Homem/Hora — pare de trabalhar no prejuízo" width="70%" />
