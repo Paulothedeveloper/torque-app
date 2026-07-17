@@ -63,7 +63,15 @@ Duas opções, **sem fidelidade**, com **preço de lançamento** nos 3 primeiros
 
 ## 🖼 Telas
 
-| Painel (escuro) | Painel (claro) | No celular |
+**No app (logado):**
+
+| Início — comece por aqui | Calculadora de Custo Homem/Hora |
+|---|---|
+| ![Torque — tela de início](assets/app-inicio.png) | ![Torque — calculadora CHH](assets/app-calculadoras.png) |
+
+**Landing (pública):**
+
+| Desktop escuro | Desktop claro | No celular |
 |---|---|---|
 | ![Torque desktop escuro](assets/hero-dark.png) | ![Torque desktop claro](assets/landing-light.png) | ![Torque mobile](assets/landing-mobile.png) |
 
